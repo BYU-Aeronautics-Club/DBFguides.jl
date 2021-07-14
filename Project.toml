@@ -1,0 +1,4 @@
+name = "DBFguides"
+uuid = "b4a52d99-4cfe-4e49-9eae-5cc32293f468"
+authors = ["Judd Mehr <juddmehr@gmail.com>"]
+version = "0.1.0"
