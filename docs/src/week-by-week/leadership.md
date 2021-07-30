@@ -7,7 +7,7 @@ The Engineering Lead should obviously oversee the engineering tasks for the most
 The 31-week project breakdown could be as follows:
 
 |Week Number|Tasks|
-|-----------|-----|
+|:----------|:----|
 |-2 | Head up recruiting |
 | **Phase I:** | **Conceptual Design ---  Weeks 1-7 --- Goal: Concept Design Done and Proposoal Submitted** |
 |1| 1) Read the Rules.  2) Update proposal and report templates' formatting according to any rule changes.  3) Begin compiling checklist.|

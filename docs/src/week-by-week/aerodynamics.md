@@ -4,7 +4,7 @@
 The 31-week project breakdown could be as follows:
 
 | Week | Tasks |
-|------|-------|
+|:-----|:------|
 |-2 | Help with recruiting|
 |1| 1)Read the Rules. 2) Compile list of sub-system requirements for the aerodyanmics system. |
 |2| 1) Organize your sub-team. Get a team leader, and figure out who is on the aerodynamics sub-team.  Pass around contact info, or get on the slack channel for the aerodynamics team, etc. 2) Brainstorm ideas for the aerodynamic concepts (wing/wings configuration, tail configuration, wing/body integration style, etc.). |

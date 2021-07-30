@@ -5,7 +5,7 @@ The Manufacturing team should really just be manufacturing the whole time.  Each
 In the beginning, you should also help with initial  logistics like
 
 | Week | Tasks |
-|------|-------|
+|:-----|:------|
 |-2 | Help with recruiting|
 |1| Read the Rules|
 |2| 1) Organize your sub-team, get a lead and team members. |

@@ -3,7 +3,7 @@
 The 31-week project breakdown could be as follows:
 
 | Week | Tasks |
-|------|-------|
+|:-----|:------|
 |-2 | Help with recruiting|
 |1| Read the Rules|
 |2| |

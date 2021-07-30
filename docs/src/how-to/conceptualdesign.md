@@ -7,7 +7,7 @@ The conceptual design phase is all about making intelligent choices about the ap
 A decision matrix starts with assigning figures of merit. This is basically a prioritization of various design outcomes.  How do you know what is most important? You need to perform a sensitivity study.  At the end of the day, you need to draw lines between design concepts, design variables, and design outcomes. For example, let's say that the mission objectives are more sensitive to speed than weight.  Then you would probably want to prioritize speed over weight in your figures of merit. An example set of figures of merit might look something like this:
 
 | Figure | Value |
-|------|------|
+|:-----|:-----|
 |Speed|1.0|
 |Payload Capacity|0.8|
 |Structual Weight|0.6|
@@ -21,7 +21,7 @@ Next you need to assemble decision matrices for each basic configuration decisio
 We could start building our matrix thusly:
 
 | Figure | Value | Single Wing | Blended Wing | Canard |
-|------|------|------|------|------|
+|:-----|:-----|:-----|:-----|:-----|
 |Speed|1.0|
 |Payload Capacity|0.8|
 |Structual Weight|0.6|
@@ -44,7 +44,7 @@ Finally, for ease of design, you might again decide that your team has the most 
 All along you've been filling out your matrix and you end up with something that looks like this:
 
 | Figure | Value | Single Wing | Blended Wing | Canard |
-|------|------|------|------|------|------|
+|:-----|:-----|:-----|:-----|:-----|
 |Speed|1.0|0|0|0|
 |Payload Capacity|0.8|1|-1|0|
 |Structual Weight|0.6|-1|1|0|
@@ -55,7 +55,7 @@ All along you've been filling out your matrix and you end up with something that
 Finally, you need to add up each of the columns, each entry multiplied by the figure of merit value.  The option with the highest total, is your chosen design.  If at the end you find that the "best" option doesn't really make sense, then you need to revisit your figures of merit, but if you've chosen intelligently thus far, you should be left with the best choice to move forward with.
 
 | Figure | Value | Single Wing | Blended Wing | Canard |
-|------|------|------|------|------|------|
+|:-----|:-----|:-----|:-----|:-----|
 |Speed|1.0|0|0|0|
 |Payload Capacity|0.8|1|-1|0|
 |Structual Weight|0.6|-1|1|0|
