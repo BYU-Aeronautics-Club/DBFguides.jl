@@ -7,7 +7,7 @@ The conceptual design phase is all about making intelligent choices about the ap
 A decision matrix starts with assigning figures of merit. This is basically a prioritization of various design outcomes.  How do you know what is most important? You need to perform a sensitivity study.  At the end of the day, you need to draw lines between design concepts, design variables, and design outcomes. For example, let's say that the mission objectives are more sensitive to speed than weight.  Then you would probably want to prioritize speed over weight in your figures of merit. An example set of figures of merit might look something like this:
 
 | Figure | Value |
-|:-----|:-----:|
+|:-----|:-----:****|
 |Speed|1.0|
 |Payload Capacity|0.8|
 |Structual Weight|0.6|
@@ -87,4 +87,4 @@ You should get into the habit of starting to prototype very early, especially fo
 
 A prototype of the conceptual airframe is also possible.  A quick foamie can give you a lot of insight and intuition for a better than average starting point for your preliminary designs.  A first prototype is usually just a glider, which may or may not include control surfaces.
 
-Don't be afraid to build something fast and ugly that will help you learn faster than guessing at unknown parameters in some low-fidelity simulation.
+Don't be afraid to build something fast and ugly that will help you learn faster than guessing at unknown parameters in some low-fidelity simulation.****
